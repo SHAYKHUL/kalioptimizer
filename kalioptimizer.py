@@ -3,6 +3,7 @@
 # Version: 1.0
 # Date: [Date]
 # Description: This script provides a menu-driven approach to optimize a Linux system.
+#!/usr/bin/env python3
 import time
 import threading
 from optimizer import*
