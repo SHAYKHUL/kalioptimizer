@@ -4,6 +4,7 @@ import shutil
 import threading
 import resource
 import multiprocessing
+#!/usr/bin/env python3
 
 def disable_unneeded_services():
     print("Disabling unnecessary services...")
