@@ -92,7 +92,7 @@ def main():
     print("1. Basic Optimization")
     print("2. Advanced Optimization")
     print("3. Full system Optimization")
-    print("4. Avout")
+    print("4. About")
     print("0. Exit")
     
     option = input("Enter the option number: ")
